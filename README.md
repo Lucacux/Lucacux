@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• 🌍 I'm based in: Pilar, Buenos Aires, Argentina.<br><br>• 🌐 Visit my portfolio: lucalombardo.com<br><br>• 🔭 I’m currently working on: Learning new pentesting techniques.<br><br>• 👯 I’m looking to collaborate on: Open-source projects focused on Linux administration, system efficiency, and programming.<br><br>• 🎯 Goals: Grow into a skilled and impactful pentester.<br><br>• 🤝 I’m looking to collaborate on: Docker and Kubernetes to improve containerization and orchestration skills.</p>
+<p align="left">• 🌍 I'm based in: Pilar, Buenos Aires, Argentina.<br><br>• 🌐 Visit my portfolio: lucalombardo.com<br><br>• 🔭 I’m currently working on: Learning new pentesting techniques.<br><br>• 👯 I’m looking to collaborate on: Open-source projects focused on Linux administration, system efficiency, and programming.<br><br>• 🎯 Goals: Grow into a skilled and impactful pentester.<br><br>• 🤝 I’m looking for help with: Docker and Kubernetes to improve containerization and orchestration skills.</p>
 
 ###
 
