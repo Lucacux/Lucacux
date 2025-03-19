@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Engineering student and Junior Developer</h2>
+<h2 align="left">Computer Engineering student and Junior Developer</h2>
 
 ###
 
